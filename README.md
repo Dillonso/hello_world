@@ -2,3 +2,5 @@
 practice
 My name is Dillon 
 i stay in Midrand
+i study at UP
+Bioinformatics
